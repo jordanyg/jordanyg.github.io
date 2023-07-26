@@ -1,0 +1,42 @@
+#header-nav{
+    
+    border:0;
+    border-radius:0;
+}
+.navber-brand{
+    margin-top: 10px;
+}
+
+
+/*#nbutton{
+    margin-top: 5px;
+}*/
+#nav-list a:hover{
+    background: #e27979;
+}
+#nav-list a {
+    color: black;
+    text-align: center
+}
+.food-discription1, .food-discription2, .food-discription3{
+    background-color: aquamarine;
+    margin-left:0px ;
+    margin-top: 20px;
+    margin-right:20px;
+
+}
+.food-discription3{
+    margin-bottom: 20px;
+
+}
+.name{
+    margin-left: 40px;
+}
+#forbackground{
+    background-color: #951c49;
+}
+
+
+
+
+/*media queries*/
